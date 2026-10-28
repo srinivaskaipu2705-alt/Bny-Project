@@ -1,0 +1,6 @@
+trade_id,account_id,value_date,expected_amount,currency,counterparty
+TRD-1001,ACC-8821,2026-10-20,150000.0,USD,JPMorgan Chase
+TRD-1002,ACC-8822,2026-10-21,75400.0,USD,Citigroup
+TRD-1003,ACC-8823,2026-10-21,22000.0,USD,Goldman Sachs
+TRD-1004,ACC-8824,2026-10-22,540000.0,USD,Morgan Stanley
+TRD-1005,ACC-8825,2026-10-22,18200.0,USD,Barclays

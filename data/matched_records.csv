@@ -1,0 +1,2 @@
+trade_id,account_id,value_date,expected_amount,currency,counterparty,statement_id,settled_date,settled_amount,memo
+TRD-1001,ACC-8821,2026-10-20,150000.0,USD,JPMorgan Chase,CUST-901,2026-10-20,150000.0,SETTLEMENT JPM TRD-1001 FULL
