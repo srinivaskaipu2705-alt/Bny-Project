@@ -1,0 +1,4 @@
+invoice_number,po_number,vendor_name,subtotal_amount,tax_amount,total_amount,remittance_notes,po_expected_amount,variance,audit_status,action_required,source_file,discrepancy_amount
+INV-8810,PO-9001,Bloomberg Finance L.P.,42000.0,3000.0,45000.0,Standard monthly data feed billing.,45000.0,0.0,AUTO_APPROVED_FOR_PAYMENT,Direct-to-payment straight-through schedule.,inv_bloomberg_clean.pdf,
+INV-8812,PO-9999,Amazon Web Services,12000.0,400.0,12400.0,Cloud infrastructure usage - PO reference pending approval.,,,REJECTED_UNKNOWN_PO,Hold payment. Request valid PO from department manager.,inv_aws_unmapped.pdf,12400.0
+INV-8811,PO-9002,Refinitiv US LLC,29500.0,2000.0,31500.0,"Includes unexpected premium enterprise surcharge $3,000.",28500.0,3000.0,PRICE_VARIANCE_FLAGGED,"Overbilled by $3,000.00. Route to AP Supervisor for variance approval.",inv_refinitiv_variance.pdf,
